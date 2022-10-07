@@ -1,1 +1,1 @@
-# belajar-machine-learning
+# Belajar Artifical Intelligence
